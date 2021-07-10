@@ -36,7 +36,7 @@ My changes
 ----------
 This was created based on [st 0.8.2](https://dl.suckless.org/st/st-0.8.2.tar.gz) , the patch added on [st-sane-defaults](https://aur.archlinux.org/packages/st-sane-defaults/)
 
-```bash
+```
 wget https://dl.suckless.org/st/st-0.8.2.tar.gz
 wget https://st.suckless.org/patches/nordtheme/st-nordtheme-0.8.2.diff
 git clone https://aur.archlinux.org/st-sane-defaults.git
